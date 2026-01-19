@@ -1,0 +1,27 @@
+{
+	"license": {
+		"key": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+		"anonymous": false
+	},
+	"discord": {
+		"apiVersion": "10",
+		"hostSelection": 4,
+		"webhooks": {
+			"successful": "",
+			"missed": "",
+			"updates": "",
+			"embedMedia": ""
+		}
+	},
+	"sniper": {
+		"snipeType": 1,
+		"saveInvites": true,
+		"snipeOnMain": false,
+		"savePromoCodes": true,
+		"threads": 10
+	},
+	"alts": {
+		"status": "invisible",
+		"forceStatus": false
+	}
+}
